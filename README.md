@@ -9,7 +9,7 @@ How to read a picture:
 
 - **Solid green:** a card box, around the whole card (part of it may be hidden).
 - **Blue:** a card back.
-- **Red with an X:** an ignore box, around the visible part only.
+- **Red with an X:** an ignore box, around the visible part.
 - **The white tick** on a box's edge marks the card's own top.
 
 ## The cases
