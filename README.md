@@ -14,7 +14,23 @@ How to read a picture:
 
 ## The cases
 
-<!-- One line per case page, added as the pages are made. -->
+- [01. Small things on a card](cases/01-small-things-on-a-card/README.md)
+- [02. Which way up](cases/02-which-way-up/README.md)
+- [03. Overlapping cards](cases/03-overlapping-cards/README.md)
+- [04. A covered card whose name still shows](cases/04-name-still-shows/README.md)
+- [05. The frame's edge](cases/05-frame-edge/README.md)
+- [06. The interface, overlays and webcams](cases/06-interface-overlays-webcams/README.md)
+- [07. Cards shown enlarged](cases/07-cards-shown-enlarged/README.md)
+- [08. Card backs](cases/08-card-backs/README.md)
+- [09. A fan of backs](cases/09-fan-of-backs/README.md)
+- [10. Landscape cards and units on them](cases/10-landscape-cards/README.md)
+- [11. Small cards side by side and in a tight run](cases/11-small-cards-in-a-row/README.md)
+- [12. Tokens](cases/12-tokens/README.md)
+- [13. Cards in a digital client's hand](cases/13-digital-hand/README.md)
+- [14. Physical play: sleeves, glare, angles](cases/14-physical-play/README.md)
+- [15. Very small cards](cases/15-very-small-cards/README.md)
+- [16. A card nobody can name](cases/16-card-nobody-can-name/README.md)
+- [17. Not a card](cases/17-not-a-card/README.md)
 
 ## About the images
 
