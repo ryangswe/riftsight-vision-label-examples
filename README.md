@@ -3,7 +3,7 @@
 Real Riftbound frames, labeled the way [How to label](https://github.com/ryangswe/riftsight-vision/blob/main/docs/labeling.md)
 says, one page per case that makes people hesitate. They go with
 [riftsight-vision](https://github.com/ryangswe/riftsight-vision), the open-source card
-recognition toolkit; the rules apply to any card game, and Riftbound is the example.
+recognition toolkit; the rules are written for card games in general, and Riftbound is the example.
 
 How to read a picture:
 
