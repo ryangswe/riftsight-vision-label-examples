@@ -4,4 +4,4 @@ Each back gets a box. A neat deck gets one box, the top card's outline. A pile o
 
 ![Card backs](backs.jpg)
 
-Box 1 is a neat deck: one back box. Box 2 is a single face-down card: its own back box. Box 3 is a messy pile: one back box around the whole pile. The other blue boxes are backs too.
+Box 1 is a neat deck: one back box. Box 2 is a single face-down card: its own back box. Box 3 is a messy pile: one back box around the whole pile. The other orange boxes are backs too.

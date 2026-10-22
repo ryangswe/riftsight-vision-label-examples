@@ -4,7 +4,7 @@ Judge each card by what you can see. Less than about half hidden: a card box aro
 
 ![Overlapping cards](overlap.jpg)
 
-Box 1 is about a third hidden under box 2, so it gets a card box around its whole outline. Box 2 is on top and gets a card box too. Box 3 is mostly hidden under the card above it, so its ignore box covers just the part you can see. The thin red strips on the right are cards under other cards, each boxed to its visible part.
+Box 1 is about a third hidden under box 2, so it gets a card box around its whole outline. Box 2 is on top and gets a card box too. Box 3 is mostly hidden under the card above it, so its ignore box covers just the part you can see. The thin strips with a red X on the right are cards under other cards, each boxed to its visible part.
 
 ![Overlapping cards](shared-strips.jpg)
 

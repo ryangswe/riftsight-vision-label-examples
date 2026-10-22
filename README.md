@@ -7,10 +7,12 @@ recognition toolkit; the rules are written for card games in general, and Riftbo
 
 How to read a picture:
 
+The colors are the labeling tool's own:
+
 - **Solid green:** a card box, around the whole card (part of it may be hidden).
-- **Blue:** a card back.
-- **Red with an X:** an ignore box, around the visible part.
-- **The white tick** on a box's edge marks the card's own top.
+- **Solid orange:** a card back.
+- **Grey dotted, with a red X:** an ignore box, around the visible part.
+- **The white tick** sticking out of a box's edge marks the card's own top.
 
 ## The cases
 
